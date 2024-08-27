@@ -69,6 +69,9 @@ function App() {
     }
   }
 
+
+  
+
   return(
     <main className="board">
       <h1>Gato Game</h1>
