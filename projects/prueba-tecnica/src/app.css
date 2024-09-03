@@ -1,0 +1,21 @@
+main{
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: system-ui;
+}
+
+section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+}
+
+section img {
+    width: auto;
+    height: 320px;
+    border-radius: 10%;
+}
